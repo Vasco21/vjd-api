@@ -1,178 +1,79 @@
 [
   {
-    "names": "Kgotso chabane",
-    "gender": "Male",
-    "email": "ik.kgotso@gmail.com",
-    "phone": "+2771 950 8855",
-    "grade":"Grade 11",
-    "location": {
-      "number": 2676,
-      "name": "Section M"
-    },
-    "dob": {
-      "date": "2005-12-04",
-      "age": 17
-    },
+    "names": "Vasco Eti",
+    "grade": "A.K.A Vot DeVasco",
     "picture": {
-      "large": "https://res.cloudinary.com/creative-power/image/upload/v1659373061/Creative-Power-Org/Kgotso_ok2v8b.png",
-      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1659373061/Creative-Power-Org/Kgotso_ok2v8b.png",
-      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1659373061/Creative-Power-Org/Kgotso_ok2v8b.png"
+      "large": "https://res.cloudinary.com/creative-power/image/upload/v1703415930/Vdj%20Production/oixzfgmuzcungvbrdfr2.png",
+      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1703415930/Vdj%20Production/oixzfgmuzcungvbrdfr2.png",
+      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1703415930/Vdj%20Production/oixzfgmuzcungvbrdfr2.png"
     }
   },
   {
-    "names": "Bokamoso Masakala",
-    "gender": "Female",
-    "email": "",
-    "phone": "",
-    "grade":"Grade 10",
-    "location": {
-      "number": 2130,
-      "name": "Section M"
-    },
-    "dob": {
-      "date": "2006-09-19",
-      "age": 16
-    },
+    "names": "Moeketsi Mekoa",
+    "grade": "A.K.A $menJute",
     "picture": {
-      "large": "https://res.cloudinary.com/creative-power/image/upload/v1663223323/Creative-Power-Org/masakala_zyzbsk.jpg",
-      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1663223323/Creative-Power-Org/masakala_zyzbsk.jpg",
-      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1663223323/Creative-Power-Org/masakala_zyzbsk.jpg"
+      "large": "https://res.cloudinary.com/creative-power/image/upload/v1703413338/Vdj%20Production/ekfpewkvrnfwm0dbqy6o.png",
+      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1703413338/Vdj%20Production/ekfpewkvrnfwm0dbqy6o.png",
+      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1703413338/Vdj%20Production/ekfpewkvrnfwm0dbqy6o.png"
     }
   },
   {
-    "names": "Itumeleng Sello",
-    "gender": "Male",
-    "email": "itumelengsello401@Gmail.com",
-    "phone": "+2768 226 4114",
-    "grade":"Grade 12",
-    "location": {
-      "number": 2555,
-      "name": "Section M"
-    },
-    "dob": {
-      "date": "2004-08-22",
-      "age": 18
-    },
+    "names": "Kamohelo Ntheri",
+    "grade": "A.K.A WhatEver",
     "picture": {
-      "large": "https://res.cloudinary.com/creative-power/image/upload/v1659879385/Creative-Power-Org/Sello_sladhz-Square_r7pp31.jpg",
-      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1659879385/Creative-Power-Org/Sello_sladhz-Square_r7pp31.jpg",
-      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1659879385/Creative-Power-Org/Sello_sladhz-Square_r7pp31.jpg"
+      "large": "https://res.cloudinary.com/creative-power/image/upload/v1703415058/ntheri_xxbbyi.png",
+      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1703415058/ntheri_xxbbyi.png",
+      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1703415058/ntheri_xxbbyi.png"
     }
   },
   {
-    "names": "Eric Modise",
-    "gender": "Male",
-    "email": "tankisoericm@Gmail.com",
-    "phone": "+2760 474 3493",
-    "grade":"Grade 12",
-    "location": {
-      "number": 2841,
-      "name": "Section M"
-    },
-    "dob": {
-      "date": "2004-08-29",
-      "age": 18
-    },
+    "names": "Kaomohelo Monakaladi",
+    "grade": "A.K.A Mavoso",
     "picture": {
-      "large": "https://res.cloudinary.com/creative-power/image/upload/v1663224034/Creative-Power-Org/tanksi_mu3a24.jpg",
-      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1663224034/Creative-Power-Org/tanksi_mu3a24.jpg",
-      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1663224034/Creative-Power-Org/tanksi_mu3a24.jpg"
+      "large": "https://res.cloudinary.com/creative-power/image/upload/v1703413338/Vdj%20Production/n9yl1wafxikvb60rfvz7.png",
+      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1703413338/Vdj%20Production/n9yl1wafxikvb60rfvz7.png",
+      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1703413338/Vdj%20Production/n9yl1wafxikvb60rfvz7.png"
     }
   },
   {
-    "names": "Kedibone Tshabalala",
-    "gender": "Male",
-    "email": "",
-    "phone": "+2765 574 8606",
-    "grade":"Grade 11",
-    "location": {
-      "number": 2518,
-      "name": "Section M"
-    },
-    "dob": {
-      "date": "2000-07-10",
-      "age": 22
-    },
+    "names": "Tankiso Namame",
+    "grade": "A.K.A Maikutlo",
     "picture": {
-      "large": "https://res.cloudinary.com/creative-power/image/upload/v1664133526/Creative-Power-Org/kidibone_vyxxwb.jpg",
-      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1664133526/Creative-Power-Org/kidibone_vyxxwb.jpg",
-      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1664133526/Creative-Power-Org/kidibone_vyxxwb.jpg"
+      "large": "https://res.cloudinary.com/creative-power/image/upload/v1703413269/Vdj%20Production/is3ejst7sikevqfl7eul.png",
+      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1703413269/Vdj%20Production/is3ejst7sikevqfl7eul.png",
+      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1703413269/Vdj%20Production/is3ejst7sikevqfl7eul.png"
     }
   },
    {
-    "names": "Andile November",
-    "gender": "Male",
-    "email": "novemberandile123@gmail.com",
-    "phone": "+274 937 3571",
-    "grade":"Grade 10",
-    "location": {
-      "number": 2821,
-      "name": "Section M"
-    },
-    "dob": {
-      "date": "2005-12-21",
-      "age": 17
-    },
+    "names": "Olehile Namene",
+    "grade": "A.K.A Osky",
     "picture": {
-      "large": "https://res.cloudinary.com/creative-power/image/upload/v1660331679/Creative-Power-Org/November_s9cftk.jpg",
-      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1660331679/Creative-Power-Org/November_s9cftk.jpg",
-      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1660331679/Creative-Power-Org/November_s9cftk.jpg"
+      "large": "https://res.cloudinary.com/creative-power/image/upload/v1703415382/Vdj%20Production/zc16mxtkthmb9hm1y4x9.png",
+      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1703415382/Vdj%20Production/zc16mxtkthmb9hm1y4x9.png",
+      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1703415382/Vdj%20Production/zc16mxtkthmb9hm1y4x9.png"
     }
   },
   {
-    "names": "Khobo Dlayedwa",
-    "gender": "Male",
-    "email": "owenkhobo@gmail.com",
-    "phone": "+2763 079 6289",
-    "grade":"Grade 11",
-    "location": {
-      "number": 3477,
-      "name": "Section N"
-    },
-    "dob": {
-      "date": "2005-03-04",
-      "age": 17
-    },
+    "names": "Obakeng Namane",
+    "grade": "A.K.A Bux",
     "picture": {
-      "large": "https://res.cloudinary.com/creative-power/image/upload/v1662047336/Creative-Power-Org/Khobo_gnxbzq.jpg",
-      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1662047336/Creative-Power-Org/Khobo_gnxbzq.jpg",
-      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1662047336/Creative-Power-Org/Khobo_gnxbzq.jpg"
+      "large": "https://res.cloudinary.com/creative-power/image/upload/v1703413269/Vdj%20Production/gdtxc5jf0iagbcu3ctsm.png",
+      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1703413269/Vdj%20Production/gdtxc5jf0iagbcu3ctsm.png",
+      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1703413269/Vdj%20Production/gdtxc5jf0iagbcu3ctsm.png"
     }
   },
   {
-    "names": "Briidgett Motsie",
-    "gender": "Female",
-    "email": "briidgettmotsie@gmail.com ",
-    "phone": "+2773 916 3133",
-    "grade":"Grade 12",
-    "location": {
-      "number": 246,
-      "name": "Section M"
-    },
-    "dob": {
-      "date": "2002-03-25",
-      "age": 20
-    },
+    "names": "Orapeleng Namane",
+    "gender": "A.K.A MorapsDaVocalist",
     "picture": {
-      "large": "https://res.cloudinary.com/creative-power/image/upload/v1664606436/Creative-Power-Org/brii_faz2fb.jpg",
-      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1664606436/Creative-Power-Org/brii_faz2fb.jpg",
-      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1664606436/Creative-Power-Org/brii_faz2fb.jpg"
+      "large": "https://res.cloudinary.com/creative-power/image/upload/v1703413269/Vdj%20Production/bjalgqyzygrghfli0a8g.png",
+      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1703413269/Vdj%20Production/bjalgqyzygrghfli0a8g.png",
+      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1703413269/Vdj%20Production/bjalgqyzygrghfli0a8g.png"
     }
   },
     {
-    "names": "Tankiso Tshabalala",
-    "gender": "Male",
-    "email": "",
-    "phone": "+2763 079 6289",
-    "grade":"Grade 8",
-    "location": {
-      "number": 2697,
-      "name": "Section M"
-    },
-    "dob": {
-      "date": "2006-08-11",
-      "age": 16
-    },
+    "names": "Tshitso Mosesi",
+    "grade": "A.K.A Mogasty",
     "picture": {
       "large": "https://res.cloudinary.com/creative-power/image/upload/v1662832398/Creative-Power-Org/tankisi_ebg0r0_883873.jpg",
       "medium": "https://res.cloudinary.com/creative-power/image/upload/v1662832398/Creative-Power-Org/tankisi_ebg0r0_883873.jpg",
@@ -180,83 +81,12 @@
     }
   },
   {
-    "names": "Mahlomola Monakaladi",
-    "gender": "Male",
-    "email": "",
-    "phone": "+2778 131 4890",
-    "grade":"Grade 9",
-    "location": {
-      "number": 2726,
-      "name": "Section M"
-    },
-    "dob": {
-      "date": "2005-12-15",
-      "age": 17
-    },
+    "names": "Dolliy Eti",
+    "grade": "A.K.A Dolliey",
     "picture": {
-      "large": "https://res.cloudinary.com/creative-power/image/upload/v1664042380/Creative-Power-Org/mahlomola_vkqvls.jpg",
-      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1664042380/Creative-Power-Org/mahlomola_vkqvls.jpg",
-      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1664042380/Creative-Power-Org/mahlomola_vkqvls.jpg"
-    }
-  },
-  {
-    "names": "Vuyo Seeko",
-    "gender": "Male",
-    "email": "",
-    "phone": "+2760 556 7719",
-    "grade":"Grade 9",
-    "location": {
-      "number": 3491,
-      "name": "Section N"
-    },
-    "dob": {
-      "date": "2007-06-16",
-      "age": 15
-    },
-    "picture": {
-      "large": "https://res.cloudinary.com/creative-power/image/upload/v1662832981/Creative-Power-Org/vuyo_wq3mcs.jpg",
-      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1662832981/Creative-Power-Org/vuyo_wq3mcs.jpg",
-      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1662832981/Creative-Power-Org/vuyo_wq3mcs.jpg"
-    }
-  },
-  {
-    "names": "Tshepang Sello",
-    "gender": "Male",
-    "email": "",
-    "phone": "+2778 630 3177",
-    "grade":"Grade 10",
-    "location": {
-      "number": 2511,
-      "name": "Section M"
-    },
-    "dob": {
-      "date": "2005-07-28",
-      "age": 17
-    },
-    "picture": {
-      "large": "https://res.cloudinary.com/creative-power/image/upload/v1662833093/Creative-Power-Org/edward_com88e.jpg",
-      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1662833093/Creative-Power-Org/edward_com88e.jpg",
-      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1662833093/Creative-Power-Org/edward_com88e.jpg"
-    }
-  },
-  {
-    "names": "Hlonolofatso Motsoari",
-    "gender": "Male",
-    "email": "",
-    "phone": "+2778 922 0873",
-    "grade":"Grade 9",
-    "location": {
-      "number": 3459,
-      "name": "Section N"
-    },
-    "dob": {
-      "date": "2006-03-02",
-      "age": 16
-    },
-    "picture": {
-      "large": "https://res.cloudinary.com/creative-power/image/upload/v1662833006/Creative-Power-Org/matspari_kvmiyr.jpg",
-      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1662833006/Creative-Power-Org/matspari_kvmiyr.jpg",
-      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1662833006/Creative-Power-Org/matspari_kvmiyr.jpg"
+      "large": "https://res.cloudinary.com/creative-power/image/upload/v1703413339/Vdj%20Production/aysiekwzctbw51tm6kgc.png",
+      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1703413339/Vdj%20Production/aysiekwzctbw51tm6kgc.png",
+      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1703413339/Vdj%20Production/aysiekwzctbw51tm6kgc.png"
     }
   }
 ]
